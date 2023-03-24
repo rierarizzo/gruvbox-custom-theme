@@ -1,0 +1,30 @@
+{
+	"name": "gruvbox-custom-theme",
+	"displayName": "Gruvbox Custom Theme",
+	"description": "Gruvbox Custom Theme",
+	"publisher": "kenethrrizzo",
+	"version": "1.0.0",
+	"icon": "images/logo.png",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Gruvbox"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kenethrrizzo/gruvbox-custom-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gruvbox Custom Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox_custom_theme-color-theme.json"
+			}
+		]
+	}
+}
