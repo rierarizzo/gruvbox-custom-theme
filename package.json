@@ -3,7 +3,7 @@
 	"displayName": "Gruvbox Custom Theme",
 	"description": "Gruvbox Custom Theme",
 	"publisher": "kenethriera",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"icon": "images/logo.png",
 	"engines": {
 		"vscode": "^1.60.0"
